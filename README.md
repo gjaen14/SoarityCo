@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # SoarityCo
 Soarity Siete - One Page Premiun 
 =======
@@ -21,5 +20,4 @@ View your app in AI Studio: https://ai.studio/apps/drive/1SFoyrGmvojoEpVP22woJed
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
-   `npm run dev`
->>>>>>> 72adc59 (Commit Inicial)
+   `npm run dev` 
